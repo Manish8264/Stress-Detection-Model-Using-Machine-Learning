@@ -14,4 +14,15 @@ The dataset I’m utilizing for this errand contains information presented on su
 on emotional wellness. This dataset contains different emotional well-being issues shared by 
 individuals about their life.
 People often share their feelings on social media platforms. Many organizations can use 
-stress detection to find which social media users are stressed to help them quickly
+stress detection to find which social media users are stressed to help them quickly.
+
+Objective: Developed an ML -based project to automatically detect stress from text inputs.
+Technologies Used: Python, Pandas, NLTK, Matplotlib, WordCloud, Scikit-learn.
+Key Responsibilities:
+Implemented data cleaning and preprocessing techniques.
+Utilized NLTK for text normalization and feature extraction.
+Trained a Bernoulli Naive Bayes model for stress detection.
+Generated word cloud visualizations to analyze textual data.
+Achievements: Successfully developed a functional stress detection model with high accuracy.
+Impact: Improved mental health support efforts by providing a tool for early stress detection.
+
